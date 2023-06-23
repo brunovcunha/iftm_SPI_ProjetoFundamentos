@@ -1,0 +1,7 @@
+Cores da página:
+
+cor 1 #004F4D
+cor 2 #1F2024
+cor 3 #4B4952
+cor 4 #79717A
+cor 5 #A68F97
